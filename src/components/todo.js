@@ -22,7 +22,7 @@ export default class Todo {
   }
 
   toggleEditting() {
-    this.toggleEditting = !this.isEditing;
+    this.isEditting = !this.isEditing;
   }
 
   updateTitle(newTitle) {
