@@ -41,12 +41,4 @@ export default class Todo {
   updatePriorityLevel(newPriority) {
     this.priority = newPriority;
   }
-
-  get summary() {
-    return `${this.title} - Due: ${this.dueDate?.toLocaleDateString()}`;
-  }
-
-  set priorityLevel(level) {
-    this.priority = level;
-  }
 }
