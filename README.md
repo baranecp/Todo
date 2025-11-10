@@ -28,7 +28,7 @@ This project demonstrates modular JavaScript, DOM manipulation, and a basic Webp
 ---
 
 ## 📁 Project Structure
-
+```plaintext
 Todo/
 ├─ src/
 │ ├─ index.js # App entry point
@@ -39,12 +39,14 @@ Todo/
 ├─ webpack.config.js # Webpack configuration
 ├─ package.json
 └─ README.md
-
+```
 
 ---
 
 ## ⚙️ Setup and Run
 
 ### 1️⃣ Install dependencies
+```bash
 npm install
 npm run dev
+```
