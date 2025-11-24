@@ -53,8 +53,8 @@ Follow the steps below to run the project locally:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
-cd todo-app
+git clone https://github.com/baranecp/Todo.git
+cd Todo
 ```
 
 ### 2️⃣ Install dependencies
@@ -70,14 +70,6 @@ npm run dev
 ```
 
 Open your browser at **[http://localhost:8080](http://localhost:8080)** (or the URL shown in your terminal).
-
-### 4️⃣ Build for production (optional)
-
-```bash
-npm run build
-```
-
-The production-ready files will be in the **dist/** folder.
 
 ---
 
